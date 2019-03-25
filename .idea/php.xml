@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/ircmaxell/password-compat" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/gecko-packages/gecko-php-unit" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/jpgraph/jpgraph" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/setasign/fpdi" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/mpdf/mpdf" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/polyfill-xml" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/polyfill-php55" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/polyfill-php54" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/PhpOfficeSpreadsheet/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
